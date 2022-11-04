@@ -1,0 +1,6 @@
+{
+  "appId": "com.supplyspace",
+  "appName": "supplyspace",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
